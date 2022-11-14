@@ -3,7 +3,8 @@
 A test for enemy AI, hit registration for weapons, and animation
 
 This was mostly written in a Python-like language, and made using Godot.
-To run, just download the .exe file and it should run without any troubles.
+
+To run, just download the .exe file .pck file and it should run without any troubles. I'll attach the other files too just for fun.
 
 
 
